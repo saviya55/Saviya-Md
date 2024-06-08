@@ -101,7 +101,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "Vajira;Saviya",
+     "value": "Saviya",
      "required": false 
   },
   "heroku": {
