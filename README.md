@@ -61,8 +61,7 @@ Copy the JSON down and paste in replit then fill the vars
  ⪤ BUG TESTER NOTIYA REAL💕
  <br>
  <br/>
- # 💌SPECIAL THANK💌
- @Vajira md
+
 
 ## 😉THANKS FOR USING SAVIYA-MD WHATSAPP BOT😘
 
