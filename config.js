@@ -3,7 +3,7 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 
 //═══════[Required Variables]════════\\
-global.owner = process.env.OWNER_NUMBER.split(",")
+global.owner = process.env.OWNER_NUMBER.split(",P05hRaTL#fYv6VM6UXUJ6leCJJww-1-oMvKo2y3SvEjAlnpekrRg")
 global.mongodb = process.env.MONGODB_URI || "mongodb://mongo:425aa3ee42A-22FEBG56F4GE6efGEAh-@roundhouse.proxy.rlwy.net:20833"
 global.port= process.env.PORT || 5000
 global.email = 'sam@secktor.live'
